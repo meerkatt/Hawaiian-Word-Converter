@@ -1,2 +1,2 @@
 # CS-128 : MP : Hawaiian Words
-See the prompt on cs128.org.
+This project converts Hawaiian Words to their phonetic spelling.
